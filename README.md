@@ -16,7 +16,13 @@ ISHA is an integrated emergency detection and alert system designed to monitor m
 * Raspberry Pi 5 (Central Processing Unit) 
 * Raspberry Pi Camera Module 3 
 * Sensors: MQ-2 (Gas), SW-420 (Vibration), DHT22 (Temp/Humidity) 
-* Actuators: MG996R Servos, Water Pump, Buzzer 
+* Actuators: MG996R Servos, Water Pump, Buzzer
+  
+## Mobile Application
+The ISHA mobile app is built with Kotlin and Android Studio. It connects to the system via Supabase to provide:
+* Live Monitoring: View real-time status of gas and vibration levels.
+* Alert History: Log of all detected emergencies.
+* Live Stream: Access to the Raspberry Pi Camera Module 3 feed.
 
 ### Proponents
 John Allain P. Accad, Rhen L. Berdol, Jerome F. Narciso, Karl Edison R. Natividad, Ruzzel P. Teotico. 
