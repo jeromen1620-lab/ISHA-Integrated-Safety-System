@@ -2,8 +2,10 @@
 An IoT-based emergency detection system utilizing Raspberry Pi 5 and YOLOv8 for home safety
 ### Project Overview
 ISHA is an integrated emergency detection and alert system designed to monitor multiple household hazards, including fire, gas leaks, and earthquakes
-![System Block Diagram] (images/System_block_diagram.png)
-![Schematic Diagram] (images/Schematic_Diagram.png)
+### System Architecture
+![ISHA System Block Diagram](images/System-block-diagram.png)
+
+![Schematic Diagram](images/Schematic-Diagram.png)
 ### Key Features
 * Multi-Hazard Detection: Real-time monitoring of gas leaks (MQ-2), seismic activity (SW-420), and temperature/humidity (DHT22)
 * AI-Powered Fire Prevention: Uses a Raspberry Pi Camera Module 3 and the YOLOv8n algorithm for real-time fire detection
