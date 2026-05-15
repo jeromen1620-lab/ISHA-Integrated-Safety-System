@@ -16,5 +16,5 @@ ISHA is an integrated emergency detection and alert system designed to monitor m
 * Actuators: MG996R Servos, Water Pump, Buzzer 
 
 ### Proponents
-John Allain P. Accad, Rhen L. Berdol, Jerome F. Narciso, Karl Edison R. Natividad, Ruzzel P. Teotico 
+John Allain P. Accad, Rhen L. Berdol, Jerome F. Narciso, Karl Edison R. Natividad, Ruzzel P. Teotico. 
 STI College Caloocan, Computer Engineering 
